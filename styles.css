@@ -188,6 +188,7 @@
 
 /* Quotes Section  */
 
+/* Loading code */
 .loader {
   border: 10px solid #f3f3f3;
   border-top: 10px solid #C271FF;
@@ -410,7 +411,7 @@
 }
 
 .slick-track {
-
+  width: 767px;
 }
 
 /* SMILES Section  */
