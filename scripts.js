@@ -94,7 +94,7 @@ function fetchVideoData() {
 
 function RatingStars(rating) {
     let stars = '';
-    for (let i =0; i < 5; i++) {
+    for (let i = 0; i < 5; i++) {
         if (i < rating) {
             stars += '<img src="images/star_on.png" alt="star-on" width="15px"/>';
         } else {
@@ -129,3 +129,7 @@ function initializeVideoCarousel() {
     });
 }
 
+function fetchCourses {
+    $('.loader').show();
+    
+}

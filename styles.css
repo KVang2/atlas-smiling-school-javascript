@@ -410,9 +410,10 @@
   }
 }
 
-.slick-track {
-  width: 767px;
+.rating {
+  flex-direction: row;
 }
+
 
 /* SMILES Section  */
 
