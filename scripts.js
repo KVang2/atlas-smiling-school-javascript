@@ -1,7 +1,6 @@
 $(document).ready(function() {
     fetchQuoteData();
     fetchVideoData();
-    fetchCourses();
 });
 
 // Function for quote

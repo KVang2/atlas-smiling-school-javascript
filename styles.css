@@ -186,8 +186,6 @@
   }
 }
 
-/* Quotes Section  */
-
 /* Loading code */
 .loader {
   border: 10px solid #f3f3f3;
@@ -203,6 +201,8 @@
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+/* Quotes Section  */
 
 .quotes {
   height: 392px;
@@ -297,6 +297,7 @@
     padding-top: 24px;
   }
 }
+
 
 /* POPULAR SECTION  */
 
@@ -414,6 +415,9 @@
   flex-direction: row;
 }
 
+.card {
+  margin: 15px;
+}
 
 /* SMILES Section  */
 
