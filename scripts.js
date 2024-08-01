@@ -1,6 +1,7 @@
 $(document).ready(function() {
     fetchQuoteData();
     fetchVideoData();
+    fetchCourses();
 });
 
 // Function for quote
@@ -127,9 +128,4 @@ function initializeVideoCarousel() {
             }
         ]
     });
-}
-
-function fetchCourses {
-    $('.loader').show();
-    
 }
