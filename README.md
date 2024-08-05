@@ -76,4 +76,6 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 Kevin Vang: [kvang2](https://github.com/kvang2)
 
-Updated the carousel of the quote and video with slick
+Updated the carousel of the quote and video with slick.
+https://kvang2.github.io/atlas-smiling-school-javascript/
+
